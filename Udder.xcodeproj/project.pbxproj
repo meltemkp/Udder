@@ -12,6 +12,7 @@
 		FA8ACED7217CEEA700B232CF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8ACED5217CEEA700B232CF /* Main.storyboard */; };
 		FA8ACED9217CEEA900B232CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8ACED8217CEEA900B232CF /* Assets.xcassets */; };
 		FA8ACEDC217CEEA900B232CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8ACEDA217CEEA900B232CF /* LaunchScreen.storyboard */; };
+		FA8ACEE4217CF04000B232CF /* Images in Resources */ = {isa = PBXBuildFile; fileRef = FA8ACEE3217CF04000B232CF /* Images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FA8ACED8217CEEA900B232CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA8ACEDB217CEEA900B232CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA8ACEDD217CEEA900B232CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA8ACEE3217CF04000B232CF /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		FA8ACED0217CEEA600B232CF /* Udder */ = {
 			isa = PBXGroup;
 			children = (
+				FA8ACEE3217CF04000B232CF /* Images */,
 				FA8ACED1217CEEA600B232CF /* AppDelegate.swift */,
 				FA8ACED3217CEEA600B232CF /* ViewController.swift */,
 				FA8ACED5217CEEA700B232CF /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA8ACEE4217CF04000B232CF /* Images in Resources */,
 				FA8ACEDC217CEEA900B232CF /* LaunchScreen.storyboard in Resources */,
 				FA8ACED9217CEEA900B232CF /* Assets.xcassets in Resources */,
 				FA8ACED7217CEEA700B232CF /* Main.storyboard in Resources */,
